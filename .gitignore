@@ -1,4 +1,4 @@
 certs
 RPC.iml
-load_test.go
+load_test.sh
 .idea
